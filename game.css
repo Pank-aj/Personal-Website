@@ -1,0 +1,21 @@
+.formlayout{
+    background-color:white;
+    border-radius: 15px;
+    margin-top: 8%;
+}
+
+.inform{
+    padding: 20px;
+    
+}
+
+.aquablue
+{
+    background-color:#01b3a5;
+    color: white;
+}
+
+.hidden
+{
+    display: none;
+}
